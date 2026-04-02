@@ -7,8 +7,11 @@
 ## ⚡ O que este projeto faz
 
 ✔ Identifica quando um usuário vira **super_admin**
+
 ✔ Detecta **falhas de login e possíveis ataques de força bruta**
+
 ✔ Monitora **alterações críticas no firewall**
+
 ✔ Exibe tudo em um **dashboard pronto para SOC**
 
 ---
